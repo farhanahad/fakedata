@@ -1,0 +1,26 @@
+[
+    {
+      "id": 1,
+      "img": "https://i.ibb.co/YtTXVhY/2.jpg",
+      "name": "Cardiology",
+      "description": "How all this mistaken a idea of denouncing pleasure praisings pain was complete"
+    },
+    {
+      "id": 2,
+      "img": "https://i.ibb.co/t2r2HTK/1.jpg",
+      "name": "Neurology",
+      "description": "Who chooses to enjoy a pleasure that has annoying consequences, or one who avoid pains"
+    },
+    {
+      "id": 3,
+      "img": "https://i.ibb.co/XFjVDM0/3-1.jpg",
+      "name": "Gynecology",
+      "description": "How all this mistaken a idea of denouncing pleasure praisings pain was complete"
+    },
+    {
+      "id": 4,
+      "img": "https://i.ibb.co/FwMKsZF/4.png",
+      "name": "Pulmonology",
+      "description": "Who chooses to enjoy a pleasure that has annoying consequences, or one who avoid pains"
+    }
+  ]
