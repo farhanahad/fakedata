@@ -1,73 +1,85 @@
 [
     {
         "id": 1,
-        "trainer": "Hinata Hyuga",
-        "trainerImg": "https://eduma.thimpress.com/demo-languages-school/wp-content/uploads/sites/26/2015/11/team-3-200x200.jpg"
+        "name": "Hinata Hyuga",
+        "image": "https://eduma.thimpress.com/demo-languages-school/wp-content/uploads/sites/26/2015/11/team-3-200x200.jpg",
+        "description":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eligendi non quis exercitationem culpa nesciunt nihil aut nostrum explicabo reprehenderit optio amet ab temporibus asperiores quasi cupiditate. Voluptatum ducimus voluptates voluptas"
        
     },
     {
         "id": 2,
-        "trainer": "Keny White",
-        "trainerImg": "https://eduma.thimpress.com/demo-languages-school/wp-content/uploads/sites/26/2015/11/team-5-200x200.jpg"
+        "name": "Keny White",
+        "image": "https://eduma.thimpress.com/demo-languages-school/wp-content/uploads/sites/26/2015/11/team-5-200x200.jpg",
+        "description":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eligendi non quis exercitationem culpa nesciunt nihil aut nostrum explicabo reprehenderit optio amet ab temporibus asperiores quasi cupiditate. Voluptatum ducimus voluptates voluptas"
        
     },
     {
         "id": 3,
-        "trainer": "Hinata Hyuga",
-        "trainerImg": "https://eduma.thimpress.com/demo-languages-school/wp-content/uploads/sites/26/2015/11/team-3-200x200.jpg"
+        "name": "Hinata Hyuga",
+        "image": "https://eduma.thimpress.com/demo-languages-school/wp-content/uploads/sites/26/2015/11/team-3-200x200.jpg",
+        "description":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eligendi non quis exercitationem culpa nesciunt nihil aut nostrum explicabo reprehenderit optio amet ab temporibus asperiores quasi cupiditate. Voluptatum ducimus voluptates voluptas"
        
     },
     {
         "id": 4,
-        "trainer": "Anthony",
-        "trainerImg": "https://eduma.thimpress.com/demo-languages-school/wp-content/uploads/sites/26/2015/11/team-2-200x200.jpg"
+        "name": "Anthony",
+        "image": "https://eduma.thimpress.com/demo-languages-school/wp-content/uploads/sites/26/2015/11/team-2-200x200.jpg",
+        "description":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eligendi non quis exercitationem culpa nesciunt nihil aut nostrum explicabo reprehenderit optio amet ab temporibus asperiores quasi cupiditate. Voluptatum ducimus voluptates voluptas"
        
     },
     {
         "id": 5,
-        "trainer": "John Doe",
-        "trainerImg": "https://lmstheme.wpengine.com/wp-content/uploads/2014/05/teacher3.jpg"
+        "name": "John Doe",
+        "image": "https://lmstheme.wpengine.com/wp-content/uploads/2014/05/teacher3.jpg",
+        "description":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eligendi non quis exercitationem culpa nesciunt nihil aut nostrum explicabo reprehenderit optio amet ab temporibus asperiores quasi cupiditate. Voluptatum ducimus voluptates voluptas"
     },
     {
         "id": 6,
-        "trainer": "Hinata Hyuga",
-        "trainerImg": "https://eduma.thimpress.com/demo-languages-school/wp-content/uploads/sites/26/2015/11/team-3-200x200.jpg"
+        "name": "Hinata Hyuga",
+        "image": "https://eduma.thimpress.com/demo-languages-school/wp-content/uploads/sites/26/2015/11/team-3-200x200.jpg",
+        "description":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eligendi non quis exercitationem culpa nesciunt nihil aut nostrum explicabo reprehenderit optio amet ab temporibus asperiores quasi cupiditate. Voluptatum ducimus voluptates voluptas"
       
     },
     {
         "id": 7,
-        "trainer": "Anthony",
-        "trainerImg": "https://eduma.thimpress.com/demo-languages-school/wp-content/uploads/sites/26/2015/11/team-2-200x200.jpg"
+        "name": "Anthony",
+        "image": "https://eduma.thimpress.com/demo-languages-school/wp-content/uploads/sites/26/2015/11/team-2-200x200.jpg",
+        "description":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eligendi non quis exercitationem culpa nesciunt nihil aut nostrum explicabo reprehenderit optio amet ab temporibus asperiores quasi cupiditate. Voluptatum ducimus voluptates voluptas"
       
     },
     {
         "id": 8,
-        "trainer": "John Doe",
-        "trainerImg": "https://lmstheme.wpengine.com/wp-content/uploads/2014/05/teacher3.jpg"
+        "name": "John Doe",
+        "image": "https://lmstheme.wpengine.com/wp-content/uploads/2014/05/teacher3.jpg",
+        "description":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eligendi non quis exercitationem culpa nesciunt nihil aut nostrum explicabo reprehenderit optio amet ab temporibus asperiores quasi cupiditate. Voluptatum ducimus voluptates voluptas"
         
     },
     {
         "id": 9,
-        "trainer": "Young Hoo",
-        "trainerImg": "https://lmstheme.wpengine.com/wp-content/uploads/2014/05/teacher1.jpg"
+        "name": "Young Hoo",
+        "image": "https://lmstheme.wpengine.com/wp-content/uploads/2014/05/teacher1.jpg",
+        "description":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eligendi non quis exercitationem culpa nesciunt nihil aut nostrum explicabo reprehenderit optio amet ab temporibus asperiores quasi cupiditate. Voluptatum ducimus voluptates voluptas"
        
     },
     {
         "id": 10,
-        "trainer": "Hinata Hyuga",
+        "name": "Hinata Hyuga",
         
-        "trainerImg": "https://eduma.thimpress.com/demo-languages-school/wp-content/uploads/sites/26/2015/11/team-3-200x200.jpg"
+        "image": "https://eduma.thimpress.com/demo-languages-school/wp-content/uploads/sites/26/2015/11/team-3-200x200.jpg",
+        "description":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eligendi non quis exercitationem culpa nesciunt nihil aut nostrum explicabo reprehenderit optio amet ab temporibus asperiores quasi cupiditate. Voluptatum ducimus voluptates voluptas"
         
     },
     {
         "id": 11,
-        "trainer": "Keny White",
-        "trainerImg": "https://eduma.thimpress.com/demo-languages-school/wp-content/uploads/sites/26/2015/11/team-5-200x200.jpg"
+        "name": "Keny White",
+        "image": "https://eduma.thimpress.com/demo-languages-school/wp-content/uploads/sites/26/2015/11/team-5-200x200.jpg",
+        "description":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eligendi non quis exercitationem culpa nesciunt nihil aut nostrum explicabo reprehenderit optio amet ab temporibus asperiores quasi cupiditate. Voluptatum ducimus voluptates voluptas"
     },
     {
         "id": 12,
-        "trainer": "Keny White",
-        "trainerImg": "https://eduma.thimpress.com/demo-languages-school/wp-content/uploads/sites/26/2015/11/team-5-200x200.jpg"
+        "name": "Keny White",
+        "trainerImg": "https://eduma.thimpress.com/demo-languages-school/wp-content/uploads/sites/26/2015/11/team-5-200x200.jpg",
+        "description":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eligendi non quis exercitationem culpa nesciunt nihil aut nostrum explicabo reprehenderit optio amet ab temporibus asperiores quasi cupiditate. Voluptatum ducimus voluptates voluptas"
         
     }
 ]
