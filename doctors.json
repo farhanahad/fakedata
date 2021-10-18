@@ -74,12 +74,6 @@
         "name": "Keny White",
         "image": "https://eduma.thimpress.com/demo-languages-school/wp-content/uploads/sites/26/2015/11/team-5-200x200.jpg",
         "description":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eligendi non quis exercitationem culpa nesciunt nihil aut nostrum explicabo reprehenderit optio amet ab temporibus asperiores quasi cupiditate. Voluptatum ducimus voluptates voluptas"
-    },
-    {
-        "id": 12,
-        "name": "Keny White",
-        "trainerImg": "https://eduma.thimpress.com/demo-languages-school/wp-content/uploads/sites/26/2015/11/team-5-200x200.jpg",
-        "description":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eligendi non quis exercitationem culpa nesciunt nihil aut nostrum explicabo reprehenderit optio amet ab temporibus asperiores quasi cupiditate. Voluptatum ducimus voluptates voluptas"
-        
     }
+   
 ]
